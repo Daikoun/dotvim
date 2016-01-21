@@ -10,3 +10,6 @@
 [submodule "bundle/SrcExpl"]
 	path = bundle/SrcExpl
 	url = https://github.com/wesleyche/SrcExpl.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
