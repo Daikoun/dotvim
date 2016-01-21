@@ -16,3 +16,6 @@
 [submodule "bundle/tagbar-phpctags"]
 	path = bundle/tagbar-phpctags
 	url = https://github.com/vim-php/tagbar-phpctags.vim.git
+[submodule "bundle/bundle/vim-dirdiff"]
+	path = bundle/bundle/vim-dirdiff
+	url = https://github.com/will133/vim-dirdiff.git
